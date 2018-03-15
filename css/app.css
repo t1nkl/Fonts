@@ -1,0 +1,138 @@
+/* ttlakes */
+@font-face {
+    font-family: "ttlakes-medium";
+    src:
+        url('../fonts/ttlakes/medium/TTLakes-Medium.woff2') format('woff2'),
+        url('../fonts/ttlakes/medium/TTLakes-Medium.otf') format('otf'),
+        url('../fonts/ttlakes/medium/TTLakes-Medium.ttf') format('ttf');
+}
+@font-face {
+    font-family: "ttlakescompressed-black";
+    src:
+        url('../fonts/ttlakes/compressed-black/TTLakes-Compressed-Black.woff2') format('woff2'),
+        url('../fonts/ttlakes/compressed-black/TTLakesCompressed-Black.otf') format('otf'),
+        url('../fonts/ttlakes/compressed-black/TTLakes-Compressed-Black.ttf') format('ttf');
+}
+@font-face {
+    font-family: "ttlakescondensed-bold";
+    src:
+        url('../fonts/ttlakes/condensed-bold/TTLakes-Condensed-Bold.woff2') format('woff2'),
+        url('../fonts/ttlakes/condensed-bold/TTLakesCondensed-Bold.otf') format('otf'),
+        url('../fonts/ttlakes/condensed-bold/TTLakes-Condensed-Bold.ttf') format('ttf');
+}
+.ttlakes-medium{
+    font-family: 'ttlakes-medium';
+}
+.ttlakescompressed-black{
+    font-size: 20px;
+    font-family: 'ttlakescompressed-black';
+}
+.ttlakescondensed-bold{
+    font-family: 'ttlakescondensed-bold';
+}
+
+
+/* arkhip */
+@font-face {
+    font-family: "arkhip";
+    src:
+        url('../fonts/arkhip/Arkhip_font.eot'),
+        url('../fonts/arkhip/Arkhip_font.woff') format('woff'),
+        url('../fonts/arkhip/Arkhip_font.ttf') format('truetype'),
+        url('../fonts/arkhip/Arkhip_font.svg') format('svg');
+}
+.arkhip{
+    font-family: 'arkhip';
+}
+
+
+/* gogoia */
+@font-face {
+    font-family: "gogoia"; 
+    src:
+        url('../fonts/gogoia/GOGOIA-Regular.woff') format('woff'),
+        url('../fonts/gogoia/GOGOIA-Regular.woff2') format('woff2'),
+        url('../fonts/gogoia/GOGOIA-Regular.otf') format('otf');
+}
+.gogoia{
+    font-family: 'gogoia';
+}
+
+
+/* gordoni */
+@font-face {
+    font-family: "gordoni"; 
+    src:
+        url('../fonts/gordoni/Gordoni Italic.woff') format('woff'),
+        url('../fonts/gordoni/gordoni_italic-webfont.woff2') format('woff2'),
+        url('../fonts/gordoni/GordoniItalic.otf') format('otf');
+}
+.gordoni{
+    font-family: 'gordoni';
+}
+
+
+/* sunday */
+@font-face {
+    font-family: "sunday"; 
+    src:
+        url('../fonts/sunday/Sunday-Regular.woff') format('woff'),
+        url('../fonts/sunday/Sunday-Regular.ttf') format('ttf'),
+        url('../fonts/sunday/Sunday-Regular.woff2') format('woff2');
+}
+.sunday{
+    font-family: 'sunday';
+}
+
+
+/* helvetica neue cyr */
+@font-face {
+    font-family: "helveticaneuecyr"; 
+    src:
+        url('../fonts/helveticaneue/HelveticaNeueCyr.otf') format('otf');
+}
+.helveticaneuecyr{
+    font-family: 'helveticaneuecyr';
+}
+
+
+/* avenir next */
+@font-face {
+    font-family: "avenirnext";
+    src:
+        url('../fonts/avenirnext/AvenirNext-Regular.woff') format('woff'),
+        url('../fonts/avenirnext/AvenirNext-Regular.woff2') format('woff2'),
+        url('../fonts/avenirnext/AvenirNext-Regular.ttf') format('ttf'),
+        url('../fonts/avenirnext/AvenirNext-Regular.otf') format('otf');
+}
+.avenirnext{
+    font-family: 'avenirnext';
+}
+
+
+/* dinpro */
+@font-face {
+    font-family: "dinpro";
+    src:
+        url('../fonts/dinpro/DINPro-Regular.woff') format('woff'),
+        url('../fonts/dinpro/DINPro-Regular.woff2') format('woff2'),
+        url('../fonts/dinpro/DINPro-Regular.otf') format('otf');
+}
+.dinpro{
+    font-family: 'dinpro';
+}
+
+
+/* league gothic */
+@font-face {
+    font-family: "leaguegothic";
+    src:
+        url('../fonts/leaguegothic/LeagueGothic-Regular.woff') format('woff'),
+        url('../fonts/leaguegothic/LeagueGothic-Regular.woff2') format('woff2'),
+        url('../fonts/leaguegothic/LeagueGothic-Regular.otf') format('otf');
+}
+.leaguegothic{
+    font-family: 'leaguegothic';
+}
+
+
